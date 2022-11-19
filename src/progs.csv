@@ -28,7 +28,7 @@ gvim,,text editor
 highlight,r,ranger previews highlighted
 htop-vim-git,D,system info
 i3-gaps,,window manager
-i3blocks,,status bar
+polybar,,status bar
 i3lock,,screen lock
 imagemagick,D,"image conversion and modification, lock screen"
 libcaca,r,
